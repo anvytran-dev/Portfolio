@@ -2667,7 +2667,7 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			color: beige;
 		}
 
 	#footer .copyright {
@@ -3365,7 +3365,9 @@ input, select, textarea {
 	}
 
 	.aMenu{
-		color: gray;
+		color: black;
+		font-size: 16px;
+		font-weight: bold;
 	}
 
 	.ulFront{
