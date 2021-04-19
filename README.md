@@ -9,7 +9,7 @@ This is a website for my professional website. It has the following sections:
 
 Link to Project: https://anvy-tran.netlify.app/
 
-![Project Image](/images/webpage.png)
+![Project Image](/images/site.png)
 
 
 ### How It's Made:
